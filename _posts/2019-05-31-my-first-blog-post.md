@@ -1,6 +1,6 @@
 ---
 title: "My Title"
-date: 20190531
+date: 2019-05-31
 ---
 
 I got stuff to write.
